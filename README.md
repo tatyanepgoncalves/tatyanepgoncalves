@@ -1,7 +1,7 @@
 ### Olá, eu sou Tatyane Gonçalves, desenvolvedora Front-end!👋
 
 <div>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&layout=donut&theme=dracula">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&layout=donut&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
