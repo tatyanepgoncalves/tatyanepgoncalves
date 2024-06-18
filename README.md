@@ -1,8 +1,8 @@
-## Bem-vindo ao meu perfil: Desenvolvedora Front End apaixonada por Tecnologia!
+## Bem-vindo ao meu perfil
 
 # 💫 About Me:
-🔭 Sou estudante de **Sistema de Informação** com foco em **Front-End**<br>
-🌱 Atualmente estou aprofundando meus conhecimentos em **JS** <br>
+🔭 **Desenvolvedora Front End** apaixonada por tecnologia<br>
+
 
 
 ## 🌐 Socials:
