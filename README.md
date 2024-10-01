@@ -32,7 +32,7 @@ Meu nome é Tatyane, sou Desenvolvedora Front-End.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Socials:
 <div align="left">
