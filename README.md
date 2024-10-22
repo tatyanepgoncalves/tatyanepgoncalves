@@ -6,7 +6,7 @@ Meu nome é Tatyane, sou Desenvolvedora Front-End.
 ## 
 # 💫 About Me:
 
-<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo JavaScript e TypeScript<br>🎯 Objetivos: <br>🎲 Curiosidade: gosto de música, filme e novelas</p>
+<p align="left">✨ Criando bugs desde 2023<br>📚 Atualmente estou aprendendo JavaScript <br>🎲 Curiosidade: gosto de música, filme e novelas</p>
 
 ##
 
