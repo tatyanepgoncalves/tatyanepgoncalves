@@ -2,9 +2,9 @@ I'm an Information Systems student living in Brazil. I'm learning how to code. I
 
 For my programming projects, I usually only push to Github when I make significant progress. For markdown files, I commit much more frequently. Feel free to create a pull request to contribute to any of my repositories.
 
-🌱 I'm currently learning HTML, CSS, Sass, JS, React, and TypeScript
-🔭 I'm currently working on creating web pages and learning how to code.
-😀 I like reading, coding, listening to music, and watching soap operas and series in my free time.
+🌱 I'm currently learning HTML, CSS, Sass, JS, React, and TypeScript <br>
+🔭 I'm currently working on creating web pages and learning how to code. <br>
+😀 I like reading, coding, listening to music, and watching soap operas and series in my free time.<br>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tatyanepgoncalves&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
